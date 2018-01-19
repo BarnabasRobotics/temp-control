@@ -32,3 +32,12 @@ Revision History:
 - Added Green LED as power indicator
 - Added a 4-PIN connector for OLED
 - Rearranged and Rerouted the whole board
+
+1/8/2018
+- Removed power jack
+- Removed 5V regulator
+- Added 3v regulator
+- Added level shifter
+
+1/19/2018
+- Added temp sensor
